@@ -1,2 +1,2 @@
-# ASL
-ASL sign language detector Letter-level
+# ISL
+Indian sign language detector Letter-level
